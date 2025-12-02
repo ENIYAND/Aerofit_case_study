@@ -82,7 +82,7 @@ This case study analyzes customer profiles and buying behavior for Aerofit tread
 ---- 
 
 ## Binder Launch
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ENIYAND/Aerofit-case-study/main?urlpath=lab)
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ENIYAND/Aerofit_case_study/HEAD?urlpath=lab)
 
 ---
 
@@ -114,4 +114,5 @@ pip install -r requirements.txt
 # Launch Jupyter Lab
 jupyter lab
 # Open notebooks/01-aerofit-exploratory-analysis.ipynb
+
 
